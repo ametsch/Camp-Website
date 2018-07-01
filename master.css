@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Gorditas');
+@import url('https://fonts.googleapis.com/css?family=Shrikhand');
+.title {
+ color: black;
+ margin: 50 auto;
+}
+body {
+  background-color: #ff8040;
+  font-family: 'Gorditas', cursive;
+  color: black;
+}
+.list {
+  font-size: 125%;
+  margin: -25 auto;
+}
+a {
+  color: black;
+  font-family: 'Shrikhand', cursive;
+}
